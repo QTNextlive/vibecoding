@@ -1,0 +1,122 @@
+1. VScode - 
+2. Git/GitHub/GitHub desktop 
+3. prompt engineering 
+=> prompt  => set of instructions to LLM ==> Large Language Model 
+=> Any task in your mind  -> 
+I want to write a program to reverse the number C ?
+=> vibe coding : ]coding  => 
+
+Instead of you do coding or developing an application AI is able to do it .
+Browser : 
+
+1. emergent.sh 
+
+ try to develop an application which is your choice -
+
+Web application 
+mobile application => which reside in the mobile device =>mobile app
+
+=> I want to develop a web application which is similar to sbi online banking or Citibank online banking 
+
+Role : to whom we are serving 
+Task : actual problem 
+context : back ground 
+rules : constraints 
+output format : which format output 
+instructions : simple conditions or rules supplying to the ai 
+
+
+prompt engineering ? 
+
+1. emergent.sh
+2. lovable.dev => bolt.new
+3. antigravity =? google
+4. windsurf
+to simplify your development activities we are using vibe coding .
+
+vibe coding ? :
+
+
+Can you people write a prompt to learn how to write reverse the number program in c. 
+
+refining the prompt to get best results => 
+
+vibe coding => you may not able to get the right answer in first attempt  =>
+
+1. write a prompt and see the preview => if any deviations then we need to update the prompt with those issues =?
+
+we are not able to get right output  from AI with in 1/2 attempt you need to keep on supplying the information to the AI through prompts until you get satisfied . 
+
+===========================================================================
+copilot for our coding :
+
+1. inline suggestions : 
+
+
+at least one task for in line suggestion 
+one task for ask = RAG => Retrieval augment generation => Brain 
+
+Agent  => agent type of application  => brain + hands of AI /tools
+Agent option is working on behalf of you with the help of brain / LLM  and hands / tools 
+
+DB
+Front 
+backend 
+---------------------------------------------------------------------------
+
+1. VSCODE => download and install 
+2. GitHub account and repo => 
+3. Git commands => 
+4. prompt engineering  => building blocks of prompt => 5 prompts before coming to next class 
+5. Vibe coding  => on behalf of the developer we are hiding coding agent to build the application.
+5.1 emergent 
+5.2 lovable.dev 
+5.3 Antigravity => desktop application
+5.4 bolt.new and windsurf => task 
+5.5 GitHub copilot => coding assistant for all development 
+   a. inline suggestions  => while you writing the code - GitHub copilot 
+      provide you the suggestion
+   b. ask mode  => we can ask a question to AI brain/ LLM that will generate  
+      the code . we review the code and copy paste in your project 
+   c. Agent => it is doing every thing on behalf of you as a copilot in the    
+      development task.
+===========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
